@@ -76,6 +76,10 @@
         <br/>
         Весь REST интерфейс покрывается JUnit тестами, используя Spring MVC Test и Spring Security Test
         <br/>
+        An enterprise application with authorization and access rights and with testing. Suppots two kind of profiles: admin and user.
+        "Admin" can manage (edit/delete/create) users.
+        "User" is limited to edit and view your data, including filtering.
+        <br/>
         <a href="https://github.com/ValkSam/topjava">https://github.com/ValkSam/topjava</a>:
     </div>
 </div>

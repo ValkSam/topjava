@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 
 /**
- * GKislin
+ * ValkSam
  * 06.01.2015.
  */
 public class JsonLocalDateTimeConverter {

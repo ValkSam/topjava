@@ -70,12 +70,13 @@
 </div>
 <div class="container">
     <div class="lead">
-        &nbsp;&nbsp;&nbsp;Приложение с регистрацией/авторизацией пользователя и интерфейсом на основе ролей (ROLE_USER, ROLE_ADMIN).
+        &nbsp;&nbsp;&nbsp;Демо приложения с регистрацией/авторизацией пользователя и интерфейсом на основе ролей (ROLE_USER, ROLE_ADMIN).
         Администратор может управлять (редактировать/удалять/создавать) пользователями.
-        Пользователь может ограниченно редактировать и просматривать свои
-        данные.
+        Пользователь может ограниченно редактировать и просматривать свои данные.
         <br/>
         Весь REST интерфейс покрывается JUnit тестами, используя Spring MVC Test и Spring Security Test
+        <br/>
+        <a href="https://github.com/ValkSam/topjava">https://github.com/ValkSam/topjava</a>:
     </div>
 </div>
 <jsp:include page="fragments/footer.jsp"/>

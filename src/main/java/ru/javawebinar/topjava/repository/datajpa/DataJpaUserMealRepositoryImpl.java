@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 /**
- * GKislin
+ * ValkSam
  * 27.03.2015.
  */
 @Repository

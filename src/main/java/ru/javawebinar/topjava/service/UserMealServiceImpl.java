@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 import java.util.Collection;
 
 /**
- * GKislin
+ * ValkSam
  * 06.03.2015.
  */
 @Service

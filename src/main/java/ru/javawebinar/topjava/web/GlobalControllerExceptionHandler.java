@@ -14,7 +14,7 @@ import ru.javawebinar.topjava.util.exception.ErrorInfo;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * User: gkislin
+ * User: ValkSam
  * Date: 23.09.2014
  */
 @ControllerAdvice

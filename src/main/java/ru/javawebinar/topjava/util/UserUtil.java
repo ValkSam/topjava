@@ -5,7 +5,7 @@ import ru.javawebinar.topjava.model.User;
 import ru.javawebinar.topjava.to.UserTo;
 
 /**
- * GKislin
+ * ValkSam
  */
 public class UserUtil {
     public static final int DEFAULT_CALORIES_PER_DAY = 2000;

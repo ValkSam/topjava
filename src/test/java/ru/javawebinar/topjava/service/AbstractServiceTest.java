@@ -12,7 +12,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import static ru.javawebinar.topjava.Profiles.POSTGRES;
 
 /**
- * User: gkislin
+ * User: ValkSam
  * Date: 10.08.2014
  */
 @ContextConfiguration({

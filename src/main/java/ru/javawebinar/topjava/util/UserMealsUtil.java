@@ -11,7 +11,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- * GKislin
+ * ValkSam
  * 31.05.2015.
  */
 public class UserMealsUtil {

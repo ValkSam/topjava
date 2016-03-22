@@ -3,7 +3,7 @@ package ru.javawebinar.topjava;
 import java.util.function.Consumer;
 
 /**
- * User: gkislin
+ * User: ValkSam
  * Date: 05.08.2015
  *
  * @link http://javawebinar.ru/topjava/

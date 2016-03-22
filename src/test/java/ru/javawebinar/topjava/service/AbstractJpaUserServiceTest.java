@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import ru.javawebinar.topjava.repository.JpaUtil;
 
 /**
- * GKislin
+ * ValkSam
  * 07.04.2015.
  */
 abstract public class AbstractJpaUserServiceTest extends AbstractUserServiceTest {

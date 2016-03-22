@@ -14,7 +14,7 @@ import static java.time.LocalDateTime.of;
 import static ru.javawebinar.topjava.model.BaseEntity.START_SEQ;
 
 /**
- * GKislin
+ * ValkSam
  * 13.03.2015.
  */
 public class MealTestData {

@@ -8,7 +8,7 @@ import ru.javawebinar.topjava.util.exception.NotFoundException;
 import java.util.Collection;
 
 /**
- * User: gkislin
+ * User: ValkSam
  * Date: 22.08.2014
  */
 public interface UserService {

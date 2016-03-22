@@ -13,7 +13,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * GKislin
+ * ValkSam
  * 15.06.2015.
  */
 @Repository

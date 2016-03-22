@@ -13,7 +13,7 @@ import java.util.*;
 import static ru.javawebinar.topjava.util.UserUtil.DEFAULT_CALORIES_PER_DAY;
 
 /**
- * User: gkislin
+ * User: ValkSam
  * Date: 22.08.2014
  */
 @NamedQueries({

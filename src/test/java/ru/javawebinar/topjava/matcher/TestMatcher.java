@@ -5,7 +5,7 @@ import org.hamcrest.Description;
 import ru.javawebinar.topjava.web.json.JsonUtil;
 
 /**
- * GKislin
+ * ValkSam
  * 05.01.2015.
  */
 abstract public class TestMatcher<T> extends BaseMatcher<String> {

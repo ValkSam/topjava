@@ -11,7 +11,7 @@ import com.fasterxml.jackson.datatype.hibernate4.Hibernate4Module;
 import java.time.LocalDateTime;
 
 /**
- * User: gkislin
+ * User: ValkSam
  * Date: 26.05.2014
  * <p>
  * Handling Hibernate lazy-loading

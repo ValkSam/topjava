@@ -11,7 +11,7 @@ import ru.javawebinar.topjava.to.UserTo;
 import ru.javawebinar.topjava.web.ExceptionInfoHandler;
 
 /**
- * GKislin
+ * ValkSam
  * 06.03.2015.
  */
 @RestController

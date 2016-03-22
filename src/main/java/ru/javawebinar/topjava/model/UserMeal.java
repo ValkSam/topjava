@@ -9,7 +9,7 @@ import javax.validation.constraints.NotNull;
 import java.time.LocalDateTime;
 
 /**
- * GKislin
+ * ValkSam
  * 11.01.2015.
  */
 @NamedQueries({

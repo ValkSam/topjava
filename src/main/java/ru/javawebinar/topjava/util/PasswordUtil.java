@@ -7,7 +7,7 @@ import org.springframework.util.StringUtils;
 import java.util.regex.Pattern;
 
 /**
- * GKislin
+ * ValkSam
  * 05.01.2015.
  */
 

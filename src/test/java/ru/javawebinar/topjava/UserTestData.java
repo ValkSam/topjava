@@ -13,7 +13,7 @@ import java.util.Set;
 import static ru.javawebinar.topjava.model.BaseEntity.START_SEQ;
 
 /**
- * GKislin
+ * ValkSam
  * 24.09.2015.
  */
 public class UserTestData {

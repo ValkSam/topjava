@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * User: gkislin
+ * User: ValkSam
  * Date: 22.08.2014
  */
 public class SpringMain {

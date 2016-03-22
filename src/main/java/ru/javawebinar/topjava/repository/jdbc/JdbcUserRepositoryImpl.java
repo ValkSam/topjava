@@ -24,7 +24,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * User: gkislin
+ * User: ValkSam
  * Date: 26.08.2014
  */
 

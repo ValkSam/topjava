@@ -13,7 +13,7 @@ import java.net.URI;
 import java.util.Collection;
 
 /**
- * GKislin
+ * ValkSam
  * 06.03.2015.
  */
 @RestController

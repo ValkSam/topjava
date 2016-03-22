@@ -8,7 +8,7 @@ import java.time.LocalTime;
 import java.util.Collection;
 
 /**
- * GKislin
+ * ValkSam
  * 15.06.2015.
  */
 public interface UserMealService {

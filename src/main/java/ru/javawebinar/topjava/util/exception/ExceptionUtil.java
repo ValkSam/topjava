@@ -4,7 +4,7 @@ package ru.javawebinar.topjava.util.exception;
 import ru.javawebinar.topjava.LoggerWrapper;
 
 /**
- * User: gkislin
+ * User: ValkSam
  * Date: 14.05.2014
  */
 public class ExceptionUtil {

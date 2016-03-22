@@ -19,7 +19,7 @@ import java.util.Collection;
 import java.util.Objects;
 
 /**
- * GKislin
+ * ValkSam
  * 06.03.2015.
  */
 @Service("userService")

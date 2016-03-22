@@ -9,7 +9,7 @@ import ru.javawebinar.topjava.model.User;
 import java.io.UnsupportedEncodingException;
 
 /**
- * GKislin
+ * ValkSam
  * 05.01.2015.
  */
 public class TestUtil {

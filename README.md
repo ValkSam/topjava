@@ -1,3 +1,5 @@
+DEMO of 
+ 
 Java Enterprise Online Project c авторизацией и правами доступа на основе ролей (с тестированием)
 
 Java Enterprise Online Project with authorization and access rights based on roles (with testing) 
@@ -5,17 +7,19 @@ Java Enterprise Online Project with authorization and access rights based on rol
 
 ИНСТРУМЕНТЫ И ТЕХНОЛОГИИ
 
-Maven, Tomcat, Git;
+Web: Spring (Core/MVC/Security), JSON, REST, JSP, DataTables
+Containers: Tomcat 
+Persistence: Hibernate, Ehcache, JDBC, Spring JDBCTemplate 
+Testing: jUnit, Spring Test, MockMvc, Harmcrest
+Enterprise: EJB, ESB 
+JavaFX, Scene Builder
+RDBMS: PostgreSQL, HSQLDB
+Build tools: Maven 
 
-Spring: MVC, Security, DJPA, MockMvc;
+(used IDE: IntelliJ IDEA)
 
-DB: PostgreSQL, HSQLDB;
-
-Технологии: JDBC, JPA(Hibernate), REST(Jackson), JPS/JSTL, i18, JUnit;
-
-Javascript: jQuery, Bootstrap, DataTables, Ajax, знаком с AngularJS;
-
-IDE: IntelliJ IDEA
+===============================
+deploy on heroku: https://jeeproject-demo.herokuapp.com/
 
 
 

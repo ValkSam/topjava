@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import java.time.LocalDateTime;
 
 /**
- * GKislin
+ * ValkSam
  * 11.01.2015.
  */
 public class UserMealWithExceed {

@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.validation.ValidationException;
 
 /**
- * User: gkislin
+ * User: ValkSam
  * Date: 23.09.2014
  */
 public interface ExceptionInfoHandler {

@@ -6,7 +6,7 @@ import ru.javawebinar.topjava.util.exception.ErrorInfo;
 import ru.javawebinar.topjava.util.exception.NotFoundException;
 
 /**
- * User: gkislin
+ * User: ValkSam
  * Date: 22.01.14
  */
 public class LoggerWrapper {

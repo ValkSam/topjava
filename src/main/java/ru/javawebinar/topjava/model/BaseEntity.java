@@ -5,7 +5,7 @@ import ru.javawebinar.topjava.LoggerWrapper;
 import javax.persistence.*;
 
 /**
- * User: gkislin
+ * User: ValkSam
  * Date: 22.08.2014
  */
 @MappedSuperclass

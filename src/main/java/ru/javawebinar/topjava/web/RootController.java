@@ -1,21 +1,16 @@
 package ru.javawebinar.topjava.web;
 
-import com.sun.deploy.net.HttpResponse;
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;
 import org.springframework.dao.DataIntegrityViolationException;
-import org.springframework.http.HttpRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.ui.ModelMap;
 import org.springframework.validation.BindingResult;
-import org.springframework.validation.support.BindingAwareModelMap;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.bind.support.SessionStatus;
-import org.springframework.web.servlet.ModelAndView;
-import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import ru.javawebinar.topjava.LoggedUser;
 import ru.javawebinar.topjava.to.UserTo;
 import ru.javawebinar.topjava.util.UserUtil;
@@ -24,8 +19,6 @@ import ru.javawebinar.topjava.web.user.AbstractUserController;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.validation.Valid;
-import javax.xml.ws.http.HTTPBinding;
-import javax.xml.ws.spi.http.HttpContext;
 
 /**
  * User: gkislin

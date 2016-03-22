@@ -70,17 +70,19 @@
 </div>
 <div class="container">
     <div class="lead">
-        &nbsp;&nbsp;&nbsp;Демо приложения с регистрацией/авторизацией пользователя и интерфейсом на основе ролей (ROLE_USER, ROLE_ADMIN).
-        Администратор может управлять (редактировать/удалять/создавать) пользователями.
-        Пользователь может ограниченно редактировать и просматривать свои данные.
+        <p>Демо приложения с регистрацией/авторизацией пользователя и интерфейсом на основе ролей (ROLE_USER, ROLE_ADMIN).</p>
+        <p>Администратор может управлять (редактировать/удалять/создавать) пользователями.</p>
+        <p>Пользователь может ограниченно редактировать и просматривать свои данные.</p>
         <br/>
         Весь REST интерфейс покрывается JUnit тестами, используя Spring MVC Test и Spring Security Test
         <br/>
-        An enterprise application with authorization and access rights and with testing. Suppots two kind of profiles: admin and user.
-        "Admin" can manage (edit/delete/create) users.
-        "User" is limited to edit and view your data, including filtering.
         <br/>
-        <a href="https://github.com/ValkSam/topjava">https://github.com/ValkSam/topjava</a>:
+        <p>An enterprise application with authorization and access rights and with testing. Suppots two kind of profiles: admin and user.</p>
+        <p>"Admin" can manage (edit/delete/create) users.</p>
+        <p>"User" is limited to edit and view your data, including filtering.</p>
+        <br/>
+        <br/>
+        <a href="https://github.com/ValkSam/topjava">https://github.com/ValkSam/topjava</a>
     </div>
 </div>
 <jsp:include page="fragments/footer.jsp"/>
